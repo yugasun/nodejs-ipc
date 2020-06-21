@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-ipc",
+  "version": "0.0.1",
+  "description": "IPC implement for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "server": "node ./src/server.js",
+    "client": "node ./src/client.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yugasun/nodejs-ipc.git"
+  },
+  "author": "yugasun",
+  "license": "MIT",
+  "private": false,
+  "bugs": {
+    "url": "https://github.com/yugasun/nodejs-ipc/issues"
+  },
+  "homepage": "https://github.com/yugasun/nodejs-ipc#readme",
+  "keywords": [
+    "ipc",
+    "socket",
+    "node.js"
+  ]
+}
